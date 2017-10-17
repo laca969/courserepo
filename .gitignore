@@ -1,2 +1,6 @@
 /RemoteSystemsTempFiles
 /Servers
+/Client/tartget
+/CourseRegistry/target
+.metadata
+.recommenders
